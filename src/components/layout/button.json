@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_layout_buttons",
+  "info": {
+    "displayName": "Button",
+    "icon": "arrow-right"
+  },
+  "options": {},
+  "attributes": {
+    "Label": {
+      "type": "string",
+      "required": true,
+      "default": "Label"
+    },
+    "Link": {
+      "type": "string",
+      "required": true,
+      "default": "Link"
+    }
+  }
+}
